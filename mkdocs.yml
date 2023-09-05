@@ -1,5 +1,5 @@
 site_name: MkDocs Tutorial
-site_url: 
+site_url: "https://github.com/evinai/yt-jw-mkdocs-t"
 theme:
   name: material
   features:
